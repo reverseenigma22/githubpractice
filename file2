@@ -2,3 +2,10 @@ TESTING:
 Non-functional testing is a type of software testing that evaluates the performance, usability, reliability, scalability, and other non-functional aspects of a software application. Unlike functional testing, which focuses on verifying that the software performs its intended functions, non-functional testing ensures that the software meets quality standards and performs well under various conditions.
 
 I want to become a DEVOPS Enigeer with good package.
+
+Performance Testing: Measures the speed, responsiveness, and stability of the application under various conditions.
+Load Testing: Evaluates the system's behavior under expected user loads to ensure it can handle the anticipated traffic.
+Stress Testing: Tests the system's limits by pushing it beyond normal operational capacity to identify breaking points.
+Usability Testing: Focuses on the user experience, ensuring the interface is intuitive and easy to navigate.
+Security Testing: Identifies potential vulnerabilities and ensures data protection and secure access.
+Compatibility Testing: Verifies the application's compatibility across different devices, browsers, operating systems, and networks.
