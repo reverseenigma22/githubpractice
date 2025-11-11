@@ -1,0 +1,1 @@
+The product configurator role involves creating and managing configuration models that allow customers to customize products according to their preferences, ensuring accuracy and efficiency in the sales process.
